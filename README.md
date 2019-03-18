@@ -1,0 +1,1 @@
+# Influence-of-twist-angle-and-pre-bending-of-wind-turbine-rotor-blades-on-the-3D-eigenmodes
