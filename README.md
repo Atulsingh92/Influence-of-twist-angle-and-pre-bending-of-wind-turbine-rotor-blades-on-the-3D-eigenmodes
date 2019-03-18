@@ -1,1 +1,4 @@
 # Influence-of-twist-angle-and-pre-bending-of-wind-turbine-rotor-blades-on-the-3D-eigenmodes
+
+The main objective of the project is to study the influence of structural twist and pre bending on 3D eigen modes of a wind turbine blade. The proposed program is based on the Finite element formulation of classical beam element to compute stiffness and mass matrices without considering the shear deformation of the beam (Euler Bernoulli beam).
+The stiffness and mass matrices are computed using the blade structural data of NREL 5MW wind turbine. Required data were extracted from the space node geometry in formulating the transformation matrices for calculating global stiffness and mass matrices and are assembled into system matrices. The eigen frequencies are computed after applying the appropriate boundary conditions for three different cases. Thus obtained results are verified and compared with the proposed results from FAST and ADAMS.
